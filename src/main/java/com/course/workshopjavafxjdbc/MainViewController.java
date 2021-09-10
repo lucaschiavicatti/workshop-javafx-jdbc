@@ -1,7 +1,6 @@
 package com.course.workshopjavafxjdbc;
 
 import service.DepartmentService;
-import controller.DepartmentListController;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;

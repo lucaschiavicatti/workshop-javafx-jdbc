@@ -16,6 +16,5 @@ module com.course.workshopjavafxjdbc {
     exports com.course.workshopjavafxjdbc;
     exports model.entities;
     opens model.entities to javafx.fxml;
-    exports controller;
-    opens controller to javafx.fxml;
+
 }
